@@ -11,6 +11,8 @@ examples/**
 *.zip
 **/data/**/**
 **/[0-9][0-9][0-9]/**
+NOTES.md
+
 
 # python and tools
 __pycache__
@@ -39,3 +41,4 @@ env_pdf
 .Trashes
 ehthumbs.db
 Thumbs.db
+~$*.*
