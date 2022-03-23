@@ -12,7 +12,7 @@ exercises
 *.zip
 **/data/**/**
 **/[0-9][0-9][0-9]/**
-NOTES.md
+NOTES.*
 
 
 # python and tools
