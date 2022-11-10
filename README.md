@@ -1,5 +1,4 @@
-# Volgatech ML course.
+# Материалы к курсам по машинному и глубокому обучению в Волгатехе. Блок NLP
 
-Under costruction
-![Under construction](https://pngimg.com/uploads/under_construction/under_construction_PNG42.png)
+
 
